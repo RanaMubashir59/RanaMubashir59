@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **University Projects**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/RanaM/Desktop/Porfolio/html.html](file:///C:/Users/RanaM/Desktop/Porfolio/html.html)
+- 👨‍💻 All of my projects are available at this Profile
 
 - 📫 How to reach me **ranamubashiroff@gmail.com**
 
