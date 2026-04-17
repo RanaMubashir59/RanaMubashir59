@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/maddy11](https://x.com/lionff20120374)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maddy11" height="30" width="40" /></a>
+<a href="[https://x.com/lionff20120374](https://x.com/lionff20120374)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maddy11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rana mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana mubashir" height="30" width="40" /></a>
 </p>
 
